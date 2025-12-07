@@ -5,7 +5,7 @@ https://dribbble.com/
 https://github.com/
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
+Компания,готовая на всё!
 
 
 * ABOUT
@@ -46,5 +46,6 @@ footer__social
 https://www.facebook.com/
 https://www.instagram.com/
 https://twitter.com/
+
 
 
